@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning html, CSS, javascript, machine learning, Swift, Unity, ect.
 - 🤔 I’m looking for help with neural network
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/hanyun-guo) , [Email](hyguo789@gmail.com)
+- 📫 How to reach me: ![*Linkedin*](https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en_CA&gl=US)
 - 😄 Pronouns: she/her

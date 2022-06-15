@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Doris Guo
+### Hi, I'm Doris Guo 👋
 
 - 🔭 I’m currently University of Western Ontario student in Honour Specilization in Computer Science 
 - 🌱 I’m currently learning html, CSS, javascript, machine learning, Swift, Unity, ect.
